@@ -107,20 +107,20 @@ a {
   color: rgba(132, 148, 153, 1);
 }
 .hero-btns {
-  background: rgba(255, 166, 58, 1);
-  color: beige;
-  width: 137px;
-  height: 61px;
-  border-style: none;
+                      background: rgba(255, 166, 58, 1);
+                      color: beige;
+                      width: 137px;
+                      height: 61px;
+                      border-style: none;
 
-  border-radius: 25px;
+                      border-radius: 25px;
 
-  font-family: Inter;
-  font-size: 18px;
-  font-weight: 600;
-  line-height: 28.8px;
-  text-align: center;
-  
+                      font-family: Inter;
+                      font-size: 18px;
+                      font-weight: 600;
+                      line-height: 28.8px;
+                      text-align: center;
+                      
 }
 .hero-btn {
   background-color: transparent;
